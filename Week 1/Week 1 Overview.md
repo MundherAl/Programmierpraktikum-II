@@ -11,5 +11,8 @@
 - [[Waterfall vs Agile Scenario]]
 - [[Agile Caveats]]
 - [[Domain Driven Design]]
+- [[Bounded Context]]
+- 
 ## Notes
+Information compression rate: ~3.5
 #overview
