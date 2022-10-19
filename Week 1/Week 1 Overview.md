@@ -12,7 +12,10 @@
 - [[Agile Caveats]]
 - [[Domain Driven Design]]
 - [[Bounded Context]]
-- 
+- [[Domain Storytelling]]
 ## Notes
 Information compression rate: ~3.5
+
+## To-do
+- Do section on scrum
 #overview
