@@ -1,5 +1,5 @@
  ## What is a development model?
- A development moodel provides:
+ A development model provides:
  - A development plan
  - A solution for the problem
  - A logical and timely plan for the process
